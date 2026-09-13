@@ -23,7 +23,7 @@
 
 ---
 
-### 📫<div align="center">Connect with Me</div>
+### <div align="center">Connect with Me</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/kyrylo-riepin-7aba29202/)" target="_blank">
